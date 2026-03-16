@@ -2,6 +2,10 @@
 
 A REST API implementing user authentication and authorization using Bearer tokens.
 
+Postman documentation.
+
+https://documenter.getpostman.com/view/50381510/2sBXigNZDb
+
 ## Tech Stack
 - Node.js
 - Express.js
